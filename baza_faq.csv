@@ -1,0 +1,204 @@
+﻿id,question,intent,answer_id,answer,source,split
+1,Kada je službeno osnovan Odjel za matematiku koji je prethodio današnjem Fakultetu?,povijest,A001,Odjel za matematiku osnovan je 1. listopada 1999. godine.,web,train
+2,Kako je započela jezgra sveučilišnog Odjela za matematiku prije njegovog osnutka?,povijest,A002,"Jezgra je počela nastajati 1993. godine osnivanjem Udruge matematičara Osijek, Zavoda za primijenjenu matematiku i pokretanjem redovitog Matematičkog kolokvija.",web,train
+3,Koji znanstveni časopis pokreće Odjel i kada?,povijest,A003,Godine 1996. pokrenut je znanstveni časopis Mathematical Communications.,web,train
+4,Koje studijske programe je Odjel preuzeo pri svom osnutku?,povijest,A004,"Odjel je preuzeo dva četiri-godišnja sveučilišna nastavna studija, Matematika-informatika i Matematika-fizika s tadašnjeg Pedagoškog fakulteta u Osijeku.",web,train
+5,Kada je Odjel dobio dopusnicu za bolonjske studijske programe?,povijest,A005,Godine 2004. Odjel je dobio dopusnicu za novoustrojene studije usklađene s Bolonjskim procesom.,web,train
+6,Od kada Fakultet primijenjene matematike i informatike započinje s radom kao visoka učilišna ustanova?,povijest,A006,Fakultet je započeo s radom i poslovanjem 1. srpnja 2023.,web,train
+7,Gdje je danas smješten Fakultet primijenjene matematike i informatike?,povijest,A007,Fakultet je smješten u prostoru bivše vojarne “Gaj” na adresi Trg Ljudevita Gaja 6 u Osijeku.,web,test
+8,Što je studentska referada i čemu služi?,referada,A008,Studentska referada je “mjesto prvog susreta” studenata sa sustavom visokog obrazovanja; tijekom studija je ključna administrativna stanica za informacije i postupke vezane uz studiranje.,web,train
+9,Koje poslove obavlja studentska referada?,referada,A009,"Referada pruža informacije i provodi upise, vodi evidenciju tijeka studiranja (položeni kolegiji, završetak studija), te izdaje potvrde o statusu studenta i prijepise ocjena (i sl.).",web,train
+10,Kako mogu kontaktirati studentsku referadu e-mailom?,referada,A010,Službeni e-mail studentske referade je referada@mathos.hr,web,train
+11,Koje je radno vrijeme studentske referade za studente?,referada,A011,Radno vrijeme za studente je ponedjeljak–petak 7:30–14:30.,web,train
+12,Gdje se nalazi studentska referada?,referada,A012,"Studentska referada je na adresi Trg Ljudevita Gaja 6, 31000 Osijek. ",web,train
+13,Tko je voditelj Ureda za studente?,referada,A013,Voditeljica Ureda za studente je Tomislava Sudar.,web,train
+14,Tko je voditelj Odsjeka za prijediplomske i diplomske studije u referadi?,referada,A014,Voditeljica Odsjeka za prijediplomske i diplomske studije je Antonija Ljilja Bassi.,web,train
+15,Vodi li referada evidenciju o položeni kolegijima i tijeku studija?,referada,A015,"Da, među ulogama referade je vođenje cjelokupne evidencije za svakog studenta o tijeku studiranja i položenim kolegijima.",web,train
+16,Izdaje li referada potvrde o statusu studenta (npr. “potvrda o studiranju”)?,referada,A016,"Da, referada izdaje potvrde o statusu studenta. ",web,train
+17,Gdje mogu zatražiti prijepis ocjena?,referada,A017,Prijepise ocjena izdaje studentska referada.,web,train
+18,Kada se obavljaju upisi u više godine prijediplomskih i diplomskih studija?,upisi,A018,Upisi u više godine održavaju se od 15. rujna 2025. do 7. listopada 2025.,web,train
+19,Gdje mogu pronaći obrasce za zamolbu za promjenu statusa studenta ili završetak studija?,upisi,A019,“Zamolba za promjenu statusa studenta ili završetak studija” je dostupna putem poveznice navedene u obavijesti o upisima i početku nastave.,web,train
+20,Gdje mogu pronaći zamolbu za prijelaz s drugih visokih učilišta?,upisi,A020,"Prema obavijesti za 2025./2026., “Zamolba za prijelaz s drugih visokih učilišta” dostupna je putem poveznice navedene u obavijesti o upisima i početku nastave.",web,train
+21,Postoji li službeni Teams kanal za komunikaciju sa studentskom referadom?,referada,A021,"Da, u obavijesti za brucoše navodi se Teams tim “mathos – Studentska referada” s kodom vcrd3qe.",web,train
+22,Što je “mathos – Studentski forum” na Teamsu i je li obvezno pridružiti se?,referada,A022,"Obavijest za brucoše navodi da je to glavni komunikacijski kanal za važne obavijesti koje nisu vezane uz pojedini kolegij, te da su se studenti obvezni pridružiti (kod i0kwjgj).",web,train
+23,Što je “Sustav podrške kroz studij” (mentorski sustav)?,nastava,A023,"Opisan je kao sustav potpore studentima u postizanju akademskih ciljeva i razvoju vještina/kompetencija, uz cilj unapređenja komunikacije i povjerenja između studenata i zaposlenika te unaprjeđenja kvalitete studija.",web,train
+24,Kome mogu uputiti pitanja ili pritužbe u okviru mentorskog sustava?,nastava,A024,"Prema opisu, pitanja ili pritužbe studenti mogu uputiti mentorima godišta.",web,train
+25,Na koji e-mail mogu slati dodatna pitanja o studijskim programima i upisima?,upisi,A025,Na stranici “Upisi” navodi se da se dodatna pitanja vezana uz studijske programe mogu uputiti na upisi@mathos.hr,web,train
+26,Kako se prijavljuju ispiti državne mature i upis na prijediplomske studije?,upisi,A026,Prijava državne mature i prijava studijskih programa provodi se putem NISpVU sustava (preko portala “Postani student”).,web,train
+27,Koji su osnovni uvjeti za upis na prijediplomske studije Matematika i Matematika i računarstvo?,upisi,A027,"Potrebna je završena četverogodišnja srednja škola i položena državna matura iz matematike (A), hrvatskog jezika (A ili B) i stranog jezika (A ili B).",pravilnik,train
+28,Kolika je upisna kvota za prijediplomski studij Matematika?,upisi,A028,"Za 2025./2026. navodi se 39 mjesta za redovite studente (RH/EU) i 1 mjesto za redovite studente (stranci izvan EU), ukupno 40.",pravilnik,train
+29,Kolika je upisna kvota za prijediplomski studij Matematika i računarstvo?,upisi,A029,"Za 2025./2026. navodi se 54 mjesta za redovite studente (RH/EU) i 1 mjesto za redovite studente (stranci izvan EU), ukupno 55.",pravilnik,train
+30,Plaćaju li studenti koji nisu državljani RH i EU školarinu na prijediplomskim studijima?,upisi,A030,"Da, stranice upisa navode godišnju školarinu 1.120,00 eura za studente koji nisu državljani RH i država članica EU.",pravilnik,train
+31,Plaćaju li redoviti studenti (RH/EU) troškove studija pri prvom upisu 1. godine?,upisi,A031,Stranice upisa navode da redoviti studenti koji prvi put upisuju 1. godinu na toj razini (i prethodno nisu studirali redovno na istoj razini) ne plaćaju troškove studija.,pravilnik,train
+32,Koliko se maksimalno može dobiti bodova na temelju uspjeha u srednjoj školi?,upisi,A032,Stranice upisa navode da se na temelju uspjeha u srednjoj školi može ostvariti maksimalno 20% upisnih bodova.,pravilnik,train
+33,Koliki je udio bodova iz matematike na državnoj maturi za Matematiku i Matematiku i računarstvo?,upisi,A033,Na temelju uspjeha iz matematike može se ostvariti maksimalno 50% upisnih bodova.,pravilnik,train
+34,Koliki je udio bodova iz informatike na državnoj maturi?,upisi,A034,Stranice upisa navode da informatika može nositi do 20% upisnih bodova.,pravilnik,train
+35,Postoji li prag iz matematike na državnoj maturi za studij Matematika?,upisi,A035,Na stranici za Matematiku navodi se prag 40% iz matematike (uz napomenu da prag ne vrijedi za kandidate koji su završili srednju školu prije 2010. ili izvan RH).,pravilnik,train
+36,Dobivam li direktni upis ako sam sudjelovao na državnom natjecanju iz matematike ili informatike?,upisi,A036,"Stranice upisa navode da pristupnici koji su sudjelovali na državnom natjecanju iz matematike ili informatike ostvaruju pravo direktnog upisa, tj. maksimalnih 100% upisnih bodova.",pravilnik,train
+37,Koliki dio upisnih bodova mogu ostvariti temeljem posebnih postignuća?,upisi,A037,Stranice upisa navode da se preostalih 10% upisnih bodova može ostvariti temeljem posebnih postignuća u polju matematike ili informatike.,pravilnik,train
+38,Koji su primjeri posebnih postignuća koja se boduju pri upisu?,upisi,A038,"Navode se, među ostalim, sudjelovanja na natjecanjima (županijska/državna/regionalna), sudjelovanje u drugom krugu MathOS cup-a, sudjelovanje na statističkim natjecanjima (DZS/Eurostat), objave u stručnim časopisima i izlaganje na stručnom skupu.",pravilnik,train
+39,Donosi li sudjelovanje u drugom krugu MathOS cup-a bodove kao posebno postignuće?,upisi,A039,"Da, kriteriji posebnih postignuća navode da sudjelovanje u drugom krugu MathOS cup-a donosi 100 posebnih bodova.",pravilnik,train
+40,Tko boduje posebna postignuća za upis?,upisi,A040,Na stranicama upisa navodi se da posebna postignuća boduje Povjerenstvo Fakulteta na osnovu dostavljenih molbi i dokumentacije.,pravilnik,train
+41,Do kada trebam dostaviti molbu i dokumentaciju za posebna postignuća?,upisi,A041,Za upise navedene na stranicama (2025.) rok je “do 16. lipnja 2025.”.,web,train
+42,Što ako sam četverogodišnje srednje obrazovanje završio prije 2010. godine?,upisi,A042,"Stranice upisa navode da takvi pristupnici mogu polagati ispite državne mature koji su uvjet; mogu se prijaviti i ako ne polože ispite, ali tada ne dobivaju bodove iz tog dijela, već konkuriraju ocjenama iz srednje škole.",pravilnik,train
+43,Kada su termini upisa za prijediplomske studije u ljetnom i jesenskom roku?,upisi,A043,"“Termini upisa"" navode ljetni rok 17. srpnja 2025. (8:00–12:00) i jesenski rok 22. rujna 2025. (8:00–12:00).",web,train
+44,Koje dokumente trebam dostaviti za upis na prijediplomski studij?,upisi,A044,"Navodi se fotografija 4×6 cm, preslika osobne iskaznice, potvrda o uplati 47,00 eura troškova upisa te popunjen “Matični list” (obrazac).",web,dev
+45,Koliki su troškovi upisa (prema stranicama upisa za 2025.) i što uključuju?,upisi,A045,"Navodi se uplata 47,00 eura: 40,00 eura za troškove prijave/upisa/materijala i 7,00 eura za projekte Studentskog zbora.",web,train
+46,Mogu li dokumente za upis poslati e-mailom ili moram doći osobno?,upisi,A046,Stranice “Termini upisa” navode da se dokumenti mogu dostaviti osobno u Ured za studente i studije ili na e-mail referada@mathos.hr,web,train
+47,Što se događa ako ne iskoristim pravo na upis u roku u kojem sam ga stekao?,upisi,A047,"Stranice upisa navode da pristupnici koji ne iskoriste pravo na upis u roku u kojem su to pravo stekli, gube pravo upisa.",web,train
+48,Koje su upisne kvote za diplomske studije?,upisi,A048,Navode se kvote: Matematika 50 (RH/EU) + 2 (stranci izvan EU); Matematika modul Financijska matematika i statistika 30 + 1; Matematika modul Matematika i računarstvo 20 + 1; Matematika i informatika (nastavnički modul) 30 + 1.,web,train
+49,Tko ima pravo upisa na diplomski studij Matematika?,upisi,A049,"Pravo upisa imaju pristupnici koji su završili prijediplomski studij Matematika, Matematika i računarstvo ili drugi srodni sveučilišni prijediplomski studij.",web,train
+50,Koji su uvjeti za diplomski studij Matematika i informatika (nastavnički modul)?,upisi,A050,Potrebno je imati završen srodni prijediplomski studij uz najmanje 150 ECTS bodova iz matematičkih i informatičkih predmeta; iznimno je moguće s najmanje 120 ECTS uz obvezu nadoknade do 30 ECTS izbornih predmeta koje odredi Povjerenstvo za upise.,web,train
+51,Postoji li razredbeni ispit za upis na diplomske studije?,upisi,A051,Navodi se da se ne održavaju razredbeni ispiti; rang-liste se određuju prema težinskom prosjeku ocjena (na 3 decimale) s prijediplomskog studija.,web,train
+52,Koji su rokovi zaprimanja prijava za diplomske studije?,upisi,A052,Prijave se primaju 22.–26. rujna 2025. (prvi upisni rok) te 29. rujna–3. listopada 2025. (drugi upisni rok).,web,train
+53,Kako se predaje prijava za diplomski studij?,upisi,A053,Prijava se može donijeti osobno u Ured za studente i studije ili poslati na e-mail referada@mathos.hr,web,test
+54,Koji su dokumenti potrebni uz prijavu za diplomski studij?,upisi,A054,"Navode se: uvjerenje/diploma o završenom prijediplomskom (ili drugom) studiju, službeni prijepis ocjena ili dopunska isprava o studiju, potvrde o međunarodnim natjecanjima/nagradama (ako postoje) te ispunjeni formular prijave.",web,train
+55,Koji su dokumenti potrebni pri samom upisu na diplomski studij?,upisi,A055,"Navode se kopija osobne iskaznice, fotografija (4×6 cm) i potvrda o uplati 47,00 eura na ime troškova upisa.",web,train
+56,Kada se obavlja upis pristupnika koji su stekli pravo upisa na diplomski studij?,upisi,A056,Navodi se da će se upis obavljati 30. rujna i 6. listopada 2025. ,web,train
+57,Kada počinje nastava za studente viših godina?,nastava,A057,"Prema obavijesti, nastava za ostale studente prijediplomskih i diplomskih studija započinje u ponedjeljak 6. listopada 2025. sukladno rasporedu.",web,train
+58,Postoji li minimalan broj ECTS bodova koje moram upisati po semestru?,nastava,A058,Studijski programi navode da broj ECTS bodova po semestru ne smije biti manji od 25.,pravilnik,train
+59,Kako se ostvaruje obaveznih 60 ECTS bodova u akademskoj godini na prijediplomskim studijima?,nastava,A059,U studijskim programima piše da razliku do obaveznih 60 ECTS student ostvaruje upisom izbornih predmeta uz obavezne predmete.,pravilnik,train
+60,Koji su uvjeti za upis u 2. godinu prijediplomskog studija Matematika i računarstvo?,upisi,A060,"Uvjet je najmanje 40 ECTS bodova koji obavezno uključuju bodove iz Diferencijalnog računa, Linearne algebre I i Uvoda u računalnu znanost.",pravilnik,train
+61,Koji su uvjeti za upis u 3. godinu prijediplomskog studija Matematika i računarstvo?,upisi,A061,"Potrebno je položiti sve ispite s I. godine i imati najmanje 40 ECTS bodova s II. godine, uključujući bodove iz Primijenjene matematike za računalnu znanost, Struktura podataka i algoritama I te Modernih računalnih sustava.",pravilnik,train
+62,Koji su uvjeti za upis u 3. godinu prijediplomskog studija Matematika?,upisi,A062,"Potrebno je položiti sve ispite s I. godine i imati najmanje 40 ECTS bodova s II. godine, uključujući Funkcije više varijabli i Uvod u vjerojatnost i statistiku.",pravilnik,train
+63,Koji su uvjeti za upis u 2. godinu prijediplomskog studija Matematika?,upisi,A063,"U izvedbenom planu navodi se uvjet: najmanje 40 ECTS bodova, uključujući Diferencijalni račun, Uvod u računalnu znanost i Linearnu algebru I.",pravilnik,train
+64,Koji su uvjeti za upis u 2. godinu diplomskog studija Matematika i računarstvo?,upisi,A064,Studijski program navodi uvjet: najmanje 40 ECTS bodova koji obavezno uključuju bodove predmeta Inteligentni robotski sustavi.,pravilnik,train
+65,Postoji li završni rad na prijediplomskom studiju Matematika i računarstvo?,upisi,A065,U studijskom programu za III. godinu navode se “Završni rad” i “Završni praktični projekt” kao dio programa. ,pravilnik,train
+66,Postoji li završni rad na prijediplomskom studiju Matematika?,upisi,A066,U studijskom programu za III. godinu naveden je “Završni rad”.,pravilnik,train
+67,Koliko ECTS bodova nosi diplomski rad na diplomskom studiju Matematika i računarstvo?,nastava,A067,U studijskom programu diplomski rad je naveden s vrijednošću 8 ECTS.,pravilnik,train
+68,Dobivaju li studenti službene korisničke račune prilikom upisa?,it,A068,IT podrška navodi da su svi studenti dobili korisnički račun na poslužitelju pitagora.mathos.hr i AAI@EduHr identitet prilikom upisa.,web,train
+69,Kako mogu pristupiti službenom e-mailu Fakulteta kao student?,it,A069,"IT podrška navodi pristup putem web sučelja (Roundcube) ili putem e-mail klijenta, uz specificirane IMAP/SMTP postavke.",web,train
+70,Koje su IMAP/SMTP postavke za studentski mail (pitagora.mathos.hr)?,it,A070,"IT podrška navodi: incoming IMAP pitagora.mathos.hr, port 143, STARTTLS; outgoing SMTP pitagora.mathos.hr, port 587, STARTTLS uz autentikaciju.",web,train
+71,Kako mogu promijeniti lozinku za studentski e-mail?,it,A071,IT podrška navodi promjenu lozinke kroz Roundcube webmail sučelje (Settings → Password).,web,train
+72,Mogu li postaviti prosljeđivanje studentskog maila?,it,A072,IT podrška navodi da se prosljeđivanje e-maila može postaviti na istoj adresi kao i webmail (Roundcube).,web,train
+73,Što je AAI@EduHr identitet?,it,A073,IT podrška opisuje AAI@EduHr kao autentikacijsku i autorizacijsku infrastrukturu sustava znanosti i visokog obrazovanja u RH.,web,train
+74,Kako izgleda AAI@EduHr korisnički identifikator?,it,A074,Navodi se da je u obliku username@unios.hr i da to nije e-mail adresa.,web,train
+75,Za što mogu koristiti AAI@EduHr račun u praksi?,it,A075,"IT podrška navodi korištenje za Office 365 usluge (npr. Teams), prijavu na eduroam, prijavu na web Fakulteta, pristup e-Građani i druge usluge.",web,train
+76,Mogu li se AAI@EduHr računom prijaviti na eduroam?,it,A076,"Da, IT podrška navodi da se AAI identitet koristi za prijavu na eduroam mrežu Fakulteta i drugih akademskih institucija u Hrvatskoj i Europi.",web,train
+77,Gdje mogu pronaći upute za konfiguraciju eduroam-a na uređaju?,it,A077,IT podrška upućuje na eduroam installer stranicu za konfiguraciju uređaja.,web,train
+78,Čime se na Fakultetu obično odvija komunikacija vezana uz kolegije tijekom semestra?,it,A078,Obavijest za brucoše navodi da se komunikacija vezana uz kolegije odvija putem MS Teams platforme.,web,dev
+79,Kako se prijavljujem u MS Teams za kolegije?,it,A079,Obavijest za brucoše navodi prijavu pomoću AAI@EduHr identiteta.,web,dev
+80,Kako se pridružujem Teams “timovima” pojedinih kolegija?,it,A080,Obavijest za brucoše navodi da se u rasporedu nalaze Teams kodovi kolegija i da su studenti obvezni priključiti se timovima kolegija koje slušaju u zimskom semestru.,web,test
+81,Jesu li podaci za prijavu u anketu isti kao za ISVU Studomat?,it,A081,Sveučilišna anketa navodi da se logira AAI@EduHr identitetom i dodaje “isti podaci kao za ISVU studomat”.,web,test
+82,Kako pristupam Jedinstvenoj sveučilišnoj studentskoj anketi?,anketa,A082,Objava o anketi navodi pristup preko sveučilišnog portala ankete uz prijavu AAI@EduHr identitetom.,web,train
+83,Mogu li ispunjavati sveučilišnu anketu u više navrata?,anketa,A083,"Da, navodi se da se anketa može ispunjavati u više navrata te ponovno prijaviti istim podatcima dok se anketa ne zaključi.",web,train
+84,Što dobivam nakon što ispunim anketu za sve nastavnike i suradnike?,anketa,A084,Navodi se da student može samostalno ispisati potvrdu koju prilaže (uz ostale dokumente) pri upisu u višu godinu i završetku studija.,web,train
+85,Je li Jedinstvena sveučilišna studentska anketa anonimna?,anketa,A085,"Da, u objavi se navodi da je anketa u potpunosti anonimna.",web,train
+86,Kome se javiti ako imam poteškoća sa sveučilišnom anketom?,anketa,A086,Objavom je naveden kontakt e-mail dtrampus@mathos.hr za poteškoće/primjedbe/pitanja.,web,train
+87,Kada se provodi interna studentska anketa Fakulteta?,anketa,A087,Objava navodi razdoblje od 26. siječnja do 27. veljače 2026.,web,train
+88,Kako se ispunjava interna anketa Fakulteta?,anketa,A088,"Navodi se da studenti mogu ispuniti anketu prijavom u Studomat, u bilo koje vrijeme i s bilo kojeg mjesta.",web,train
+89,Tko ispunjava internu studentsku anketu Fakulteta?,anketa,A089,Navodi se da anketu popunjavaju studenti čiji se studij vodi kroz ISVU (tj. oni koji ispite prijavljuju putem Studomata).,web,dev
+90,Je li interna anketa anonimna?,anketa,A090,"Da, navodi se da je potpuno anonimna i da odgovore nije moguće povezati s bilo kojim studentom.",web,dev
+91,Postoji li poticaj/nagrada za ispunjavanje interne ankete?,anketa,A091,Navodi se da studenti mogu ostvariti pravo na kemijsku olovku i blok s logom MATHOS ako anketu ispune 17. veljače između 9 i 14 sati u RP-3.,web,test
+92,Što ako imam problem pri popunjavanju interne ankete?,anketa,A092,Navodi se da se u slučaju problema ili nejasnoća treba kontaktirati Ured za studente (studentsku referadu).,web,test
+93,Što je Studentski zbor?,studentski_zbor,A093,"Studentski zbor je studentsko izborno predstavničko tijelo koje štiti interese studenata, sudjeluje u odlučivanju u tijelima visokog učilišta i predstavlja studente u sustavu visokog obrazovanja.",web,train
+94,Od koliko članova se sastoji Studentski zbor Fakulteta?,studentski_zbor,A094,"Navodi se da se sastoji od sedam članova, od kojih troje čine predsjednik, zamjenik i predstavnik u Studentskom zboru Sveučilišta.",web,train
+95,Koliko često se održavaju studentski izbori za studentski zbor?,studentski_zbor,A095,Navodi se da se izbori održavaju svake dvije godine te da se novi predstavnici biraju na razdoblje od dvije godine.,web,train
+96,Tko je studentski pravobranitelj i kako ga kontaktirati?,studentski_zbor,A096,"Studentski pravobranitelj je Zvonimir Šego, a e-mail je pravobranitelj@mathos.hr",web,train
+97,Koje je radno vrijeme glasačkih mjesta na studentskim izborima?,studentski_zbor,A097,Za izbore 23. lipnja 2025. navodi se da su glasačka mjesta otvorena od 7:00 do 19:00.,web,train
+98,Tko ima pravo sudjelovati i birati na studentskim izborima?,studentski_zbor,A098,"Navodi se da pravo imaju svi studenti preddiplomskih, diplomskih i integriranih sveučilišnih studija, stručnih studija i poslijediplomskih studija Sveučilišta.",web,train
+99,Što je “Sigurni kanal”?,studentski_zbor,A099,"To je kanal za prijave uznemiravanja, spolnog uznemiravanja, zlostavljanja, kršenja načela ravnopravnosti spolova i povezanih oblika diskriminacije (od zaposlenika ili studenata), prema uputama koje je donijelo Vijeće 2023.",web,train
+100,Na koju adresu šaljem prijavu putem sigurnog kanala?,studentski_zbor,A100,Prijave se podnose putem e-mail adrese sigurni-kanal@mathos.hr,web,dev
+101,Mogu li prijavu sigurnim kanalom voditi anonimno?,studentski_zbor,A101,"Navodi se da u e-mailu treba naznačiti želite li anonimno; studenti se trebaju identificirati da bi se potvrdio status studenta, ali vanjski su podaci zaštićeni i prijava može biti anonimna ako student to želi.",web,dev
+102,Tko zaprima prijave i što se s njima radi?,studentski_zbor,A102,Navodi se da je Studentski zbor odredio ovlaštenu osobu koja zaprimljene prijave prosljeđuje nadležnim tijelima sukladno propisima i internim aktima.,web,test
+103,Što ako žrtva ne želi da se prijava proslijedi?,studentski_zbor,A103,"Navodi se da ovlaštena osoba poštuje stav prijavitelja, ali iznimno može proslijediti prijavu ako se radi o kaznenom djelu koje se goni po službenoj dužnosti.",web,test
+104,Tko je akademski Erasmus koordinator i kako ga kontaktirati?,erasmus,A104,Nа stranici mobilnosti naveden je akademski Erasmus koordinator Ivan Papić s kontaktom ipapic@mathos.hr.,web,train
+105,Postoji li Microsoft Teams kanal za Erasmus+ odlaznu mobilnost?,erasmus,A105,"Da, na stranici mobilnosti naveden je Teams kanal s kodom xl5p3w8 za Erasmus+ odlaznu mobilnost.",web,train
+106,Koji je preduvjet da strani student dođe na Erasmus+ razmjenu kao incoming student?,erasmus,A106,Navodi se da mora postojati Interinstitutional Agreement (IIA) s partnerskim sveučilištem za relevantno područje te da student mora biti nominiran od partnerskog sveučilišta za Erasmus+ boravak na UNIOS-u.,web,train
+107,Plaćaju li Erasmus exchange studenti školarinu na razmjeni?,erasmus,A107,Navodi se da Erasmus exchange studenti ne moraju plaćati naknade (fees) za studij u inozemstvu u okviru razmjene.,web,train
+108,Postoje li stipendije/potpore za Erasmus studente?,erasmus,A108,"Na stranici mobilnosti navode se grantovi za troškove života te dodatna podrška za studente sa zdravstvenim/mentalnim/invaliditetom, uz napomenu da se prijava radi preko matičnog sveučilišta.",web,train
+109,Gdje mogu vidjeti popis kolegija na engleskom za Erasmus+ incoming studente?,erasmus,A109,"Stranica mobilnosti upućuje na popis dostupnih kolegija (offered in English) za Erasmus+ incoming studente, a zasebna stranica “Erasmus+ Courses 2025./26.” daje listu kolegija.",web,train
+110,Kome se javiti za detalje oko pojedinog Erasmus kolegija?,erasmus,A110,Na stranici “Erasmus+ Courses 2025./26.” navodi se da za sve detalje treba kontaktirati odgovarajućeg nastavnika (lecturer),web,train
+111,Gdje se prijavljuje Erasmus+ odlazna mobilnost?,erasmus,A111,Na stranici mobilnosti navodi se da se prijava radi kroz sveučilišni Erasmus/international office.,web,dev
+112,U kojoj godini se obično ide na studijski boravak u inozemstvo?,erasmus,A112,Stranica mobilnosti navodi da se studiranje u inozemstvu obično odvija u drugoj ili trećoj godini studija.,web,dev
+113,Što je Learning Agreement i što obuhvaća?,erasmus,A113,"Na stranici mobilnosti Learning Agreement je opisan kao dokument/program koji uključuje kolegije na instituciji domaćinu, ekvivalente na matičnoj instituciji, promjene kolegija (ako treba) te transkripte/recognition dijelove.",web,test
+114,Kako se priznaju ispiti položeni na Erasmus razmjeni?,erasmus,A114,"Navodi se da institucija domaćin izdaje Transcript of Records, a matična institucija mora akademski u potpunosti priznati uspješno odrađene aktivnosti i donijeti odluku o priznavanju ocjena i ECTS-a prema Learning Agreementu (uz moguće navođenje dodatnih kolegija u dopunskoj ispravi).",web,test
+115,Koje programe cjeloživotnog obrazovanja Fakultet navodi na svojoj stranici?,cijelozivotno,A115,Na stranici cjeloživotnog obrazovanja navedena su dva programa: “Primijenjena statistika” i “Matematika u financijskim transakcijama”.,web,train
+116,Čemu služi program “Matematika u financijskim transakcijama” prema pozivu za iskaz interesa?,cijelozivotno,A116,Poziv navodi da je program osmišljen za upoznavanje ključnih pojmova financijske matematike i metoda u svakodnevnim financijskim transakcijama te razvoj znanja za financijske izračune i analize (uključujući izračune iza MATHOS kreditnog kalkulatora).,web,train
+117,Kome je namijenjen program “Matematika u financijskim transakcijama”?,cijelozivotno,A117,Kome je namijenjen program “Matematika u financijskim transakcijama” (prema pozivu)?,web,train
+118,Koje predznanje trebam za upis programa “Matematika u financijskim transakcijama”?,cijelozivotno,A118,Koje predznanje trebam za upis programa “Matematika u financijskim transakcijama” (prema pozivu)?,web,train
+119,Kada se planira izvođenje programa “Matematika u financijskim transakcijama”?,cijelozivotno,A119,"Ako se prijavi dovoljan broj polaznika, planira se izvođenje u svibnju 2026. u poslijepodnevnim satima radnim danom, u 10 termina po 3 školska sata.",web,train
+120,Kolika je cijena programa “Matematika u financijskim transakcijama”?,cijelozivotno,A120,"Poziv navodi cijenu 398€, a stranica programa navodi 398 EUR (bez PDV-a).",web,train
+121,Koji je rok za prijavu interesa za program “Matematika u financijskim transakcijama”?,cijelozivotno,A121,Rok za prijavu interesa naveden je 10. travnja 2026.,web,train
+122,Gdje šaljem upite o programu “Matematika u financijskim transakcijama”?,cijelozivotno,A122,U pozivu i na stranici programa naveden je kontakt financijske.transakcije@mathos.hr,web,train
+123,Koliko traje program “Matematika u financijskim transakcijama” i koliko ECTS nosi?,cijelozivotno,A123,Stranica programa navodi trajanje 30 sati i 6 ECTS.,web,train
+124,Koliko traje program “Primijenjena statistika” i koliko ECTS nosi?,cijelozivotno,A124,Stranica programa navodi trajanje 45 sati i 8 ECTS.,web,train
+125,Kolika je cijena programa “Primijenjena statistika”?,cijelozivotno,A125,Stranica programa navodi cijenu 531 EUR.,web,dev
+126,Koji se softver koristi u programu “Primijenjena statistika”?,cijelozivotno,A126,Navodi se korištenje licenciranog statističkog softvera i besplatnog statističkog jezika R.,web,dev
+127,Trebam li jako matematičko predznanje za “Primijenjenu statistiku”?,cijelozivotno,A127,Stranica programa navodi da nije nužno predznanje veće od matematike klasičnih/jezičnih gimnazijskih programa u RH te da se traži završena srednja škola ili program koji osigurava tu razinu.,web,test
+128,Kako se prijavljujem za “Primijenjenu statistiku”?,cijelozivotno,A128,"Navodi se da su prijave za nove grupe trajno otvorene te da se prijava radi ispunjavanjem online formulara, za upite je naveden statistika@mathos.hr",web,test
+129,Što je MathOS cup?,mathos_cup,A129,"Opisan je kao ekipno, dinamično natjecanje učenika srednjih škola, organizirano u dvije sekcije: matematika i programiranje.",web,train
+130,Tko su nositelji organizacije MathOS cup-a?,mathos_cup,A130,"Nositelji organizacije MathOS cupa su Fakultet primijenjene matematike i informatike u Osijeku, III. gimnazija Osijek, Gimnazija Požega, uz podršku Udruge matematičara Osijek.",web,train
+131,Tko može sudjelovati u MathOS cup natjecanju iz matematike?,mathos_cup,A131,"Navodi se da u matematičkoj sekciji mogu sudjelovati učenici koji pohađaju školu u jednoj od pet slavonskih županija (Vukovarsko-srijemska, Osječko-baranjska, Požeško-slavonska, Virovitičko-podravska, Brodsko-posavska).",web,train
+132,Kako je strukturirano natjecanje MathOS cup?,mathos_cup,A132,"U obje sekcije navode se dva kruga: prvi online, a drugi (za najuspješnije ekipe) uživo na Fakultetu.",web,train
+133,Donosi li sudjelovanje u drugom krugu MathOS cup-a bodove za upis na Fakultet?,mathos_cup,A133,Stranica MathOS cup-a navodi da se sudionicima drugog kruga priznaje maksimalni broj bodova u okviru bodovanja posebnih postignuća za upis na prijediplomske studije Matematika i Matematika i računarstvo.,web,train
+134,Koji su ključni datumi za MathOS cup 2026 – sekcija programiranje?,mathos_cup,A134,Navodi se: prijave 4.12.2025.–13.2.2026.; 1. krug 20. veljače 2026.; 2. krug 24. travnja 2026.,web,train
+135,Koji su ključni datumi za MathOS cup 2026 – sekcija matematika?,mathos_cup,A135,Koji su ključni datumi za MathOS cup 2026 – sekcija matematika?,web,train
+136,Kome se javiti za MathOS cup 2026 (sekcija programiranje)?,mathos_cup,A136,Navodi se kontakt tprusina@mathos.hr,web,dev
+137,Kome se javiti za MathOS cup 2026 (sekcija matematika)?,mathos_cup,A137,Navodi se kontakt mathos.cup@mathos.hr,web,dev
+138,Kolika je kotizacija za MathOS cup i kako se plaća?,mathos_cup,A138,"Navodi se kotizacija 10 eura po timu te su dani podaci za uplatu (primatelj, banka, IBAN, poziv na broj i opis).",web,test
+139,Postoje li preporuke za smještaj timova koji planiraju prenoćiti?,mathos_cup,A139,Stranica navodi preporučene hostele “Stara Pekara” i “Sokol Centar” uz kontakt podatke.,web,test
+140,Koje je radno vrijeme knjižnice?,knjiznica,A140,Knjižnica radi (za korisnike) ponedjeljak–petak 7:30–14:30.,web,train
+141,Kako kontaktirati knjižnicu?,knjiznica,A141,Navodi se tel. 031 224 813 i e-mail knjiznica@mathos.hr,web,train
+142,Gdje se nalazi knjižnica?,knjiznica,A142,Stranica knjižnice navodi da se nalazi u prizemlju zgrade na Gajevom trgu (Trg Ljudevita Gaja) broj 6.,web,train
+143,Je li učlanjenje u knjižnicu besplatno?,knjiznica,A143,Na stranici knjižnice piše da je učlanjenje besplatno; isto navodi i pravilnik knjižnice.,web,train
+144,Što trebam za posudbu knjiga kao student?,knjiznica,A144,Stranica knjižnice navodi da se pri učlanjenju pokazuje studentska iskaznica; pravilnik dodatno propisuje učlanjenje studenata uz predočenje indeksa.,web,train
+145,Koliko knjiga mogu imati posuđeno istovremeno?,knjiznica,A145,Stranica knjižnice navodi najviše 3 knjige; isto navodi i pravilnik (najviše tri jedinice građe).,web,train
+146,Koliki je rok posudbe knjiga?,knjiznica,A146,Stranica knjižnice navodi rok 15 dana; pravilnik također navodi posudbu na 15 dana.,web,train
+147,Mogu li produžiti rok posudbe?,knjiznica,A147,Pravilnik knjižnice navodi da je posudbu moguće jednom produžiti ako knjižnica ima na raspolaganju drugi primjerak istog djela.,pravilnik,train
+148,Mogu li posuditi časopise iz knjižnice?,knjiznica,A148,Stranica knjižnice navodi da se časopisi ne mogu iznositi iz čitaonice; pravilnik navodi da se časopisi ne posuđuju.,web,train
+149,Smije li se referentna literatura posuđivati?,knjiznica,A149,Stranica knjižnice navodi da se referentna građa ne iznosi iz čitaonice; pravilnik navodi da se referentna literatura ne posuđuje.,web,train
+150,Može li mi knjižnica blokirati upis u višu godinu ako ne vratim posuđene knjige?,knjiznica,A150,Pravilnik navodi da student ne može upisati sljedeću godinu studija ako ne vrati sve posuđene knjige.,pravilnik,dev
+151,Mogu li dobiti potvrdu o završetku studija ako nisam razdužio knjige u knjižnici?,knjiznica,A151,Pravilnik navodi da se studentima ne može izdati potvrda o završetku studija niti ispisnica dok ne vrate svu posuđenu knjižničnu građu.,pravilnik,dev
+152,Postoje li posljedice ako prekoračim rok posudbe?,knjiznica,A152,Pravilnik navodi mogućnost naplate zakasnine i da član koji je prekoračio rok posudbe nema pravo daljnjeg posuđivanja dok ne izvrši obvezu.,pravilnik,test
+153,Koja su osnovna pravila ponašanja u čitaonici knjižnice?,knjiznica,A153,"Pravilnik navodi da u čitaonici nije dopušteno narušavanje mira i tišine, upotreba mobilnih uređaja, grupni rad niti unošenje i konzumiranje hrane i pića.",pravilnik,test
+154,Gdje mogu dobiti potvrdu o studiranju?,referada,A154,Potvrde o statusu studenta izdaje studentska referada (Ured za studente i studije).,web,train
+155,"Treba mi uvjerenje da sam student, kome se javljam?",referada,A155,Obrati se studentskoj referadi koja izdaje potvrde o statusu studenta.,web,train
+156,Tko izdaje prijepis ocjena?,referada,A017,Prijepise ocjena izdaje studentska referada.,web,train
+157,Gdje se podižu službeni dokumenti vezani uz studij?,referada,A156,U studentskoj referadi.,web,train
+158,Mogu li tražiti dokumente putem maila?,referada,A010,Službeni e-mail studentske referade je referada@mathos.hr,web,train
+159,Koji je email referade?,referada,A010,Službeni e-mail studentske referade je referada@mathos.hr,web,train
+160,Na koji mail se javljam za pitanja oko studija?,referada,A010,Službeni e-mail studentske referade je referada@mathos.hr,web,train
+161,Gdje se nalazi referada?,referada,A012,"Studentska referada je na adresi Trg Ljudevita Gaja 6, 31000 Osijek. ",web,train
+162,Koji je telefon referade?,referada,A157,+385 31 224 860.,web,train
+163,Radno vrijeme referade?,referada,A011,Radno vrijeme za studente je ponedjeljak–petak 7:30–14:30.,web,train
+164,Kad mogu doći osobno u referadu?,referada,A011,Tijekom radnog vremena za studente (7:30 – 14:30).,web,train
+165,Koje dokumente trebam za upis?,upisi,A044,"Fotografija, kopija osobne iskaznice, potvrda o uplati troškova i matični list.",web,dev
+166,Što treba donijeti za prvi upis?,upisi,A044,"Fotografiju, osobnu iskaznicu (presliku), potvrdu o uplati i matični list.",web,dev
+167,Mogu li poslati dokumente mailom za upis?,upisi,A046,"Da, dokumenti se mogu poslati na referada@mathos.hr",web,train
+168,Što ako ne dođem na upis u terminu?,upisi,A047,Gubi se pravo na upis ako se ne iskoristi u predviđenom roku.,web,train
+169,Kako se prijaviti na diplomski studij?,upisi,A053,Prijava se može donijeti osobno u Ured za studente i studije ili poslati na e-mail referada@mathos.hr,web,test
+170,Koji dokumenti trebaju za diplomski upis?,upisi,A054,"Diploma ili uvjerenje o završetku studija, prijepis ocjena, formular prijave i ostali dokumenti prema natječaju.",web,train
+171,Tko je dekan fakulteta?,povijest,A158,Prof. dr. sc. Kristian Sabo.,web,dev
+172,"Treba mi potvrda za studentski dom, gdje to vadim?",referada,A156,U studentskoj referadi.,web,train
+173,Moram li osobno dolaziti po potvrdu ili ide online?,referada,A159,Možeš kontaktirati referadu emailom i raspitati se o izdavanju.,web,train
+174,"Ne znam kome poslati upit o studiju, help?",referada,A160,Pošalji mail na referada@mathos.hr,web,train
+175,Gdje pitati za papirologiju i administraciju?,referada,A156,U studentskoj referadi.,web,train
+176,Gdje vadim potvrdu o studiranju?,referada,A156,U studentskoj referadi.,web,train
+177,"Treba mi potvrda za studentski dom, gdje se javiti?",referada,A156,U studentskoj referadi.,web,train
+178,Tko izdaje službene dokumente s faksa?,referada,A155,Obrati se studentskoj referadi koja izdaje potvrde o statusu studenta.,web,train
+179,Gdje dobiti uvjerenje da sam redovni student?,referada,A156,U studentskoj referadi.,web,train
+180,Kome poslati zahtjev za potvrdu o statusu?,referada,A156 ,Studentskoj referadi.,web,train
+181,Koji je mail referade?,referada,A010,Službeni e-mail studentske referade je referada@mathos.hr,web,train
+182,Na koji mail pitati za studij?,referada,A010,Službeni e-mail studentske referade je referada@mathos.hr,web,train
+183,Koji broj nazvati za administraciju studija?,referada,A157,+385 31 224 860.,web,test
+184,Kad referada radi sa studentima?,referada,A011,Radno vrijeme za studente je ponedjeljak–petak 7:30–14:30.,web,train
+185,Kada mogu doći osobno riješiti papirologiju?,referada,A011,Radno vrijeme za studente je ponedjeljak–petak 7:30–14:30.,web,train
+186,Trebam kontakt osobe koja rješava studentske stvari.,referada,A157 ,+385 31 224 860.,web,test
+187,Koji dokumenti trebaju za upis?,upisi,A044,"Fotografija, kopija osobne iskaznice, potvrda o uplati troškova i matični list.",web,dev
+188,Što moram donijeti prvi dan upisa?,upisi,A044,"Fotografija, kopija osobne iskaznice, potvrda o uplati troškova i matični list.",web,dev
+189,Kako se prijaviti na diplomski?,upisi,A053,Prijava se može donijeti osobno u Ured za studente i studije ili poslati na e-mail referada@mathos.hr,web,test
+190,Koje papire treba za diplomski upis?,upisi,A054,"Navode se: uvjerenje/diploma o završenom prijediplomskom (ili drugom) studiju, službeni prijepis ocjena ili dopunska isprava o studiju, potvrde o međunarodnim natjecanjima/nagradama (ako postoje) te ispunjeni formular prijave.",web,train
+191,Gdje je MathOS točno?,povijest,A007,Fakultet je smješten u prostoru bivše vojarne “Gaj” na adresi Trg Ljudevita Gaja 6 u Osijeku.,web,test
+192,Koja je adresa fakulteta?,povijest,A007,Fakultet je smješten u prostoru bivše vojarne “Gaj” na adresi Trg Ljudevita Gaja 6 u Osijeku.,web,test
+193,Tko je dekan?,povijest,A157,Prof. dr. sc. Kristian Sabo.,web,test
+194,Gdje mogu vidjeti raspored predavanja?,nastava,A160,"Raspored nastave, promjene termina i informacije o kolegijima objavljuju se na službenim stranicama fakulteta i/ili putem sustava za e-učenje i obavijesti nastavnika.",web,train
+195,Kako provjeriti kad imam nastavu ovaj semestar?,nastava,A160,"Raspored nastave, promjene termina i informacije o kolegijima objavljuju se na službenim stranicama fakulteta i/ili putem sustava za e-učenje i obavijesti nastavnika.",web,train
+196,Jel postoji online raspored kolegija negdje?,nastava,A160,"Raspored nastave, promjene termina i informacije o kolegijima objavljuju se na službenim stranicama fakulteta i/ili putem sustava za e-učenje i obavijesti nastavnika.",web,train
+197,Gdje se objavljuju promjene termina predavanja?,nastava,A160,"Raspored nastave, promjene termina i informacije o kolegijima objavljuju se na službenim stranicama fakulteta i/ili putem sustava za e-učenje i obavijesti nastavnika.",web,train
+198,Kome se javiti ako imam pitanje oko gradiva?,nastava,A161,"Za pitanja vezana uz sadržaj kolegija, zadatke ili način izvođenja nastave potrebno je kontaktirati predmetnog nastavnika.",web,dev
+199,"Profesor je promijenio zadatak, gdje pitati detalje?",nastava,A161,"Za pitanja vezana uz sadržaj kolegija, zadatke ili način izvođenja nastave potrebno je kontaktirati predmetnog nastavnika.",web,dev
+200,"Ne razumijem obveze na kolegiju, jel se javim referadi ili profesoru?",nastava,A161,"Za pitanja vezana uz sadržaj kolegija, zadatke ili način izvođenja nastave potrebno je kontaktirati predmetnog nastavnika.",web,dev
+201,Gdje se objavljuju prezentacije i materijali s predavanja?,nastava,A162,Materijali za nastavu i obavijesti često se dijele putem sustava za e-učenje ili službenih kanala koje koristi predmetni nastavnik.,web,test
+202,Profesor je rekao da će uploadati materijale — gdje ih tražiti?,nastava,A162,Materijali za nastavu i obavijesti često se dijele putem sustava za e-učenje ili službenih kanala koje koristi predmetni nastavnik.,web,test
+203,Jel svi kolegiji koriste neki online sustav za materijale?,nastava,A162,Materijali za nastavu i obavijesti često se dijele putem sustava za e-učenje ili službenih kanala koje koristi predmetni nastavnik.,web,test
